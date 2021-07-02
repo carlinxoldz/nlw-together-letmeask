@@ -4,7 +4,7 @@ Projeto criado em evento NLW-TOGETHER-ROCKETSEAT fazendo utilização de React.J
 ## Tecnologias utilizadas:
 
 
-Typescript, SCSS, HTML, Firebase, React.ts 
+Typescript, SCSS, HTML, Firebase, ReactJS 
 
 ## Projeto:
 

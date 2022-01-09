@@ -1,4 +1,4 @@
-# nlw-together-letmeask
+# Letmeask
 Projeto criado em evento NLW-TOGETHER-ROCKETSEAT fazendo utilização de React.JS e Firebase.
 
 ## Tecnologias utilizadas:

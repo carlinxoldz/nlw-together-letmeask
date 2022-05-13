@@ -1,7 +1,7 @@
 # Letmeask
 Projeto criado em evento NLW-TOGETHER-ROCKETSEAT fazendo utilização de React.JS e Firebase.
 
-##
+
 ![Alt text](https://github.com/carlinxoldz/nlw-together-letmeask/blob/main/src/assets/images/pageLetmeAsk.png "Optional Title")
 
 ## Tecnologias utilizadas:
